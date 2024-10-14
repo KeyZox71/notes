@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Docker/Docker.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Docker/Docker.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Docker/Docker.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Docker/Docker.md"
+                "file": "index.md"
               }
             }
           },
@@ -158,10 +158,12 @@
   },
   "active": "fb3db0df511b11a3",
   "lastOpenFiles": [
-    "DevOps/Kubernetes/Kubernetes.md",
-    "DevOps/Docker/Container.md",
-    "DevOps/Docker/Docker.md",
+    "README.md",
     "index.md",
-    "README.md"
+    "DevOps/Virtualization/Virtual machine.md",
+    "DevOps/Virtualization/Hypervisor.md",
+    "DevOps/Kubernetes/Kubernetes.md",
+    "DevOps/Docker/Docker.md",
+    "DevOps/Docker/Container.md"
   ]
 }

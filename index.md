@@ -2,5 +2,4 @@
 title: Home
 tags:
 ---
-
-Hi there
+Hi there :wave:
