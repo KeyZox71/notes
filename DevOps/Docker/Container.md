@@ -1,3 +1,10 @@
+---
+title: Container
+tags:
+  - docker
+  - virtualization
+---
+
 ## What's that ?
 A container is a lightweight standalone package that include all software needed to run an application or service. It is mini operating system that you can use to run application, micro-services, etc., one by one.
 ## Why does it exist ?
@@ -13,6 +20,3 @@ To be as practical but way less hungry in ressources.
 ## How can i use them ?
 You can create and run container with [[Docker]]
 You can also manage and deploy them with [[Kubernetes]]
-
-*tag:*
-#virtualization #docker
