@@ -1,0 +1,8 @@
+{
+  "accentColor": "#c0adff",
+  "cssTheme": "Catppuccin",
+  "textFontFamily": "Calibri,Inter",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "theme": "system",
+  "nativeMenus": false
+}
