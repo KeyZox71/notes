@@ -159,8 +159,8 @@
   "lastOpenFiles": [
     "README.md",
     "index.md",
-    "DevOps/Virtualization/Virtual machine.md",
     "DevOps/Virtualization/Hypervisor.md",
+    "DevOps/Virtualization/Virtual machine.md",
     "DevOps/Kubernetes/Kubernetes.md",
     "DevOps/Docker/Docker.md",
     "DevOps/Docker/Container.md"
